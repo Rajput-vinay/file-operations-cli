@@ -13,7 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cdl-vinay": "^1.0.0",
     "commander": "^12.1.0"
   }
 }

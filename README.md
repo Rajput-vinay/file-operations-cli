@@ -38,7 +38,6 @@ You can use the CLI tool by running the following commands:
 
 ### Count Words
 
-    ```bash
      cdl-vinay countWord <file>
 
 ### Create File
